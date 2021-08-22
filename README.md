@@ -16,7 +16,7 @@ I'm a Front-End and Mobile Developer working at [CooperSystem](https://coopersys
         <a href="https://github.com/wuerta"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=wuerta&show_icons=true&theme=nord&include_all_commits=true&count_private=true" /><a/>
       </span>
     </td>
-    <td><a href="https://open.spotify.com/user/2i4sg3p2stfepsebq47b3xpvt?si=6181696403fb4ea1"><img height="380px" width="273px" src="https://spotify-github-profile.vercel.app/api/view?uid=2i4sg3p2stfepsebq47b3xpvt&cover_image=true&theme=default" /><a/></td>
+    <td><a href="https://open.spotify.com/user/2i4sg3p2stfepsebq47b3xpvt?si=6181696403fb4ea1"><img width="273px" src="https://spotify-github-profile.vercel.app/api/view?uid=2i4sg3p2stfepsebq47b3xpvt&cover_image=true&theme=default" /><a/></td>
   </tr>
 </table>
 
