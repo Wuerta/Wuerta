@@ -137,25 +137,9 @@ These are some of the technologies I work on:
   </tr>
 </table>
 
-## Contact Me:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img title="HTML" alt="HTML" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/linkedin/linkedin.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img title="CSS" alt="CSS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://sass-lang.com/">
-        <img title="SASS" alt="SASS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Wuerta/Wuerta" alt="Visitors badge" />
+   </a>
+</p>
 
