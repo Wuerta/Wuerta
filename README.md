@@ -139,7 +139,7 @@ These are some of the technologies I work on:
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Wuerta/Wuerta" alt="Visitors badge" />
+      <img src="https://komarev.com/ghpvc/?username=Wuerta" alt="Visitors badge" />
    </a>
 </p>
 
