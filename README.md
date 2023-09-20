@@ -2,25 +2,6 @@
 
 I'm a Front-End and Mobile Developer working at [CooperSystem](https://coopersystem.com.br/). I'm part of the Innovation Team and work with the objective of developing digital and creative solutions for our customers and our own company.
 
-## About Me:
-
-<table width="100%">
-  <tr>
-    <td>
-      <span>
-        <p>🔭 Working: <a href="https://curia.coop/">Curia</a></p>
-        <p>🌱 Studying: <a href="https://flutter.dev">Flutter</a></p>
-        <p>📧 Email: <a href="mailto://gabriel@wuerta.com">gabriel@wuerta.com</a></p>
-        <p>🏢 Linkedin: <a href="https://www.linkedin.com/in/wuerta/">Wuerta</a></p>
-        <a href="https://github.com/wuerta"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=wuerta&show_icons=true&theme=nord&include_all_commits=true&count_private=true" /><a/>
-      </span>
-    </td>
-    <!--
-    <td><a href="https://open.spotify.com/user/2i4sg3p2stfepsebq47b3xpvt?si=6181696403fb4ea1"><img width="273px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=2i4sg3p2stfepsebq47b3xpvt&cover_image=true&theme=default&bar_color_cover=true" /><a/></td>
-    -->
-  </tr>
-</table>
-
 ## My Superpowers:
 
 These are some of the technologies I work on:
