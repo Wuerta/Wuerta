@@ -1,6 +1,6 @@
 <h1>Hello there! I'm Gabriel!</h1>
 
-I'm a Front-End and Mobile Developer working at [CooperSystem](https://coopersystem.com.br/). I'm part of the Innovation Team and work with the objective of developing digital and creative solutions for our customers and our own company.
+I'm a Front-End and Mobile Developer working at [Coopersystem](https://coopersystem.com.br/). I'm part of the Innovation Team and work with the objective of developing digital and creative solutions for our customers and our own company.
 
 ## My Superpowers:
 
